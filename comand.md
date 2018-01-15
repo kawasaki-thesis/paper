@@ -1,3 +1,6 @@
+
+type がcat  
+
 git  
  mv newfile oldfile のあとすぐコミット  
  commit  
